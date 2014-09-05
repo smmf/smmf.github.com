@@ -28,7 +28,7 @@ You can find more info about me in the following places:
 [GoogleScholar]: http://scholar.google.com/citations?user=VR4qbCIAAAAJ
 [INESC-ID]: http://www.inesc-id.pt
 [IST]: http://tecnico.ulisboa.pt/en
-[LinkedIn]: https://www.linkedin.com/pub/s%C3%A9rgio-fernandes/3/574/70b
+[LinkedIn]: https://pt.linkedin.com/in/sergiomiguelfernandes
 [dissertation]: {{ site.url }}/permalinks/publications/2014-fernandes-phd.pdf
 [my-GitHub]: https://github.com/smmf
 [my-IST-homepage]: https://fenix.tecnico.ulisboa.pt/homepage/ist14264
