@@ -12,7 +12,7 @@ I got my Ph.D. from [Técnico][IST] on July 2014 with a [dissertation][] titled
 Transactional Memory to Improve Consistency and Performance of Read-Dominated
 Workloads*.
 
-I'm keen on using computer programming to solve everyday problems and I'm
+I'm keen on using computer programming to solve everyday problems and I'm also
 passionate about teaching.
 
 You can find more info about me in the following places:
