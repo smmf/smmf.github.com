@@ -53,3 +53,8 @@ environments.
   building blocks in Java. I defined the system’s micro-kernel architecture
   and implemented its core components.
 
+[Cloud-TM]: http://www.cloudtm.eu/
+[FenixEDU]: http://fenixedu.org/
+[Fénix Framework]: http://fenix-framework.github.io/
+[JVSTM]: http://inesc-id-esw.github.io/jvstm/
+[WorkSCo]: http://sourceforge.net/projects/worksco/

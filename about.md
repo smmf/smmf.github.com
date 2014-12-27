@@ -24,3 +24,12 @@ You can find more info about me in the following places:
 * My [homepage at Técnico Lisboa][my-IST-homepage] contains an updated [list of
   my publications][my-IST-publications]
 * My [GitHub profile][my-GitHub]
+
+[GoogleScholar]: http://scholar.google.com/citations?user=VR4qbCIAAAAJ
+[INESC-ID]: http://www.inesc-id.pt
+[IST]: http://tecnico.ulisboa.pt/en
+[LinkedIn]: https://pt.linkedin.com/in/sergiomiguelfernandes
+[dissertation]: {{ site.url }}/permalinks/publications/2014-fernandes-phd.pdf
+[my-GitHub]: https://github.com/smmf
+[my-IST-homepage]: https://fenix.tecnico.ulisboa.pt/homepage/ist14264
+[my-IST-publications]: https://sotis.tecnico.ulisboa.pt/sotis-ui/?#researcher/ist14264
