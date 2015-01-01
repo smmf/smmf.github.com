@@ -81,7 +81,7 @@ has been included in
 * [P-Array].  A variant of the [Array] adding an exchangeable persistent data
   storage.  It is built with the [Fénix Framework].
 
-## Data Grids
+# Data Grids
 
 * [Additional plugins][RadarGun smf extras] for [RadarGun].  I've implemented
   the following plugins:
