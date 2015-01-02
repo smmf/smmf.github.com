@@ -48,7 +48,7 @@ Both the [JVSTM] and the [Fénix Framework] are currently used as part of the
 [FenixEDU] platform, which in turn is deployed in several production
 environments.  A significant part of my involvement with these two projects
 has been included in
-[my Ph.D. dissertation]({{site.url}}/permalinks/publications/2014-fernandes-phd.pdf).
+[my Ph.D. dissertation]({{site.baseurl}}/permalinks/publications/2014-fernandes-phd.pdf).
 
 * [WorkSCo].  A workflow engine and a programming framework providing reusable
   workflow building blocks in Java. I defined the system’s micro-kernel

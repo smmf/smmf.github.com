@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.url }}/assets/pictures/smf-pic.png" alt="My picture" style="width: 200px; float: left"/>
+<img src="{{ site.baseurl }}/assets/pictures/smf-pic.png" alt="My picture" style="width: 200px; float: left"/>
 
 I'm currently an assistant professor of Computer Science at
 [Técnico Lisboa][IST] and a researcher at [INESC-ID].
 
-I got my Ph.D. from [Técnico][IST] on July 2014 with a [dissertation][] titled
+I got my Ph.D. from [Técnico][IST] on July 2014 with a [dissertation] titled
 *Strongly Consistent Transactions for Enterprise Applications: Using Software
 Transactional Memory to Improve Consistency and Performance of Read-Dominated
 Workloads*.
@@ -29,7 +29,7 @@ You can find more info about me in the following places:
 [INESC-ID]: http://www.inesc-id.pt
 [IST]: http://tecnico.ulisboa.pt/en
 [LinkedIn]: https://pt.linkedin.com/in/sergiomiguelfernandes
-[dissertation]: {{ site.url }}/permalinks/publications/2014-fernandes-phd.pdf
+[dissertation]: {{ site.baseurl }}/permalinks/publications/2014-fernandes-phd.pdf
 [my-GitHub]: https://github.com/smmf
 [my-IST-homepage]: https://fenix.tecnico.ulisboa.pt/homepage/ist14264
 [my-IST-publications]: https://sotis.tecnico.ulisboa.pt/sotis-ui/?#researcher/ist14264
