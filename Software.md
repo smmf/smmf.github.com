@@ -4,26 +4,8 @@ title: Software
 permalink: /software/
 ---
 
-Some interesting software that I have either created or taken part in the
-development.
-
-<!-- I have been involved in the development of the following software: -->
-
-<!-- Below is a list with my most relevant contributions to software development -->
-<!-- projects. -->
-
-<!-- #Here's some of the software to which I've made significant contributions. -->
-
-<!-- ***Here is a list of the most important (some) software products to whose -->
-<!-- development I've contributed to.*** -->
-
-<!-- **Here is a list of software to 'whose' development I’ve contributed to.** -->
-
-<!-- In my software development activity I've contributed to the following ( -->
-
-<!-- I've contributed to the development of the following software. -->
-
-<!-- # Software -->
+Some interesting open-source software that I have either created or taken part
+in the development.
 
 # Main projects
 
