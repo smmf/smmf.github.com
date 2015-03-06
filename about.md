@@ -4,17 +4,17 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/pictures/smf-pic.png" alt="My picture" style="width: 200px; float: left"/>
+<img src="{{ site.baseurl }}/assets/pictures/smf-pic.png" alt="My picture" style="width: 150px; float: left"/>
 
-I currently work for [Feedzai][] as a Software Engineer, at the Lisbon Office.
+I currently work for [Feedzai] as a Software Engineer, at the Lisbon Office.
 
 Previously, I was an assistant professor of Computer Science at
 [Técnico Lisboa][IST] and a researcher at [INESC-ID].
 
-I got my Ph.D. from [Técnico][IST] on July 2014 with a [dissertation] titled
+<!-- I got my Ph.D. from [Técnico][IST] on July 2014 with a [dissertation] titled
 *Strongly Consistent Transactions for Enterprise Applications: Using Software
 Transactional Memory to Improve Consistency and Performance of Read-Dominated
-Workloads*.
+Workloads*. -->
 
 I'm keen on using computer programming to solve everyday problems and I'm also
 passionate about teaching.
