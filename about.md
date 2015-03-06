@@ -6,7 +6,9 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/pictures/smf-pic.png" alt="My picture" style="width: 200px; float: left"/>
 
-I'm currently an assistant professor of Computer Science at
+I currently work for [Feedzai][] as a Software Engineer, at the Lisbon Office.
+
+Previously, I was an assistant professor of Computer Science at
 [Técnico Lisboa][IST] and a researcher at [INESC-ID].
 
 I got my Ph.D. from [Técnico][IST] on July 2014 with a [dissertation] titled
@@ -25,6 +27,7 @@ You can find more info about me in the following places:
   my publications][my-IST-publications]
 * My [GitHub profile][my-GitHub]
 
+[Feedzai]: http://www.feedzai.com
 [GoogleScholar]: http://scholar.google.com/citations?user=VR4qbCIAAAAJ
 [INESC-ID]: http://www.inesc-id.pt
 [IST]: http://tecnico.ulisboa.pt/en
