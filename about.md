@@ -26,6 +26,7 @@ You can find more info about me in the following places:
 * My [homepage at Técnico Lisboa][my-IST-homepage] contains an updated [list of
   my publications][my-IST-publications]
 * My [GitHub profile][my-GitHub]
+* My [PGP public key][PGP-key]
 
 [Feedzai]: http://www.feedzai.com
 [GoogleScholar]: http://scholar.google.com/citations?user=VR4qbCIAAAAJ
@@ -36,3 +37,4 @@ You can find more info about me in the following places:
 [my-GitHub]: https://github.com/smmf
 [my-IST-homepage]: https://fenix.tecnico.ulisboa.pt/homepage/ist14264
 [my-IST-publications]: https://sotis.tecnico.ulisboa.pt/sotis-ui/?#researcher/ist14264
+[PGP-key]:  {{ site.baseurl }}/permalinks/SergioFernandes.asc
