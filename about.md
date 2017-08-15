@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/pictures/smf-pic.png" alt="My picture" style="width: 150px; float: left"/>
+<img src="{{ site.baseurl }}/assets/pictures/2017-smf-4x3-smaller.jpg" alt="My picture" style="width: 150px; float: left"/>
 
 I currently work for [Feedzai] as a Software Engineer, at the Lisbon Office.
 
