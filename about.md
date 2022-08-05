@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/pictures/2017-smf-4x3-smaller.jpg" alt="My picture" style="width: 150px; float: left"/>
 
-I currently work for [Feedzai] as a Software Engineer, at the Lisbon Office.
+I currently work for [Feedzai] as an Engineering Manager, at the Lisbon Office.
 
 Previously, I was an assistant professor of Computer Science at
 [Técnico Lisboa][IST] and a researcher at [INESC-ID].
